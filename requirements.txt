@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy
+scikit-learn
+scikit-network>=0.12.0
